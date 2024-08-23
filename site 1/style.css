@@ -1,0 +1,57 @@
+
+  
+  .fonta {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    display: inline;
+    text-decoration: none;
+  }
+  .fontb{
+   font-family: "Ubuntu", sans-serif;
+   font-weight: 500;
+   font-style: normal;
+  }
+  .header {
+    background-color: rgb(231, 222, 222);
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+  }
+  li{
+    display: inline;
+    text-decoration: none;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 15px;
+    display: inline;
+
+  }
+  .li{
+    margin-left: 650px;
+  }
+  .a{
+    margin-top:160px;
+    margin-left:300px;
+    width: 400px; 
+  }
+  .b{
+    margin-top: 0px;
+    margin-left: 800px;
+    width: 300px;
+  }
+
+  .p{
+    margin-left: 300px;  
+  }
+  .q{
+    margin-left: 800px;
+  }
+  .icon{
+    border-radius: 50%;
+    width: 60px;
+    height:60px;
+  }
+  
