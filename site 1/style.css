@@ -14,8 +14,12 @@
   }
   .header {
     background-color: rgb(231, 222, 222);
-    padding: 20px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
     position: fixed;
+    margin-left: -10px;
+    margin-top: -10px;
     width: 100%;
   }
   li{
@@ -33,14 +37,15 @@
     margin-left: 650px;
   }
   .a{
-    margin-top:160px;
+    margin-top:175px;
     margin-left:300px;
     width: 400px; 
   }
   .b{
-    margin-top: 0px;
-    margin-left: 800px;
+    margin-top: -5000px;
+    margin-left: 200px;
     width: 300px;
+    display: inline;
   }
 
   .p{
