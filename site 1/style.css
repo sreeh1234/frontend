@@ -6,12 +6,23 @@
     font-style: normal;
     display: inline;
     text-decoration: none;
+    color: black;
+    
   }
   .fontb h3{
    font-family: "Ubuntu", sans-serif;
    font-weight: 500;
    font-style: normal;
   }
+  .fontd{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 300px;
+    font-size: 50px;
+    margin-top: -10px;
+    border-bottom: 2px solid gray;
+   }
 
   .FONTC{
     font-family: "Roboto", sans-serif;
@@ -26,6 +37,16 @@
     padding-bottom: 10px;
     position: fixed;
     margin-left: -10px;
+    margin-top: -10px;
+    width: 100%;
+  }
+  .header2 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    margin-left:300px;
     margin-top: -10px;
     width: 100%;
   }
@@ -71,6 +92,11 @@
     margin-top: 150px;
     
   }
+  .img21{
+    margin-left: 300px;
+    margin-top:-34px;
+    width: 550px  ;
+  }
   .p1{
     width: 450px;
     margin-left: 300px;
@@ -106,5 +132,33 @@
     font-size: 17px;
     padding-left: 10px;
   }
-  
+  .culture{
+    margin-left: 1550px;
+    margin-top:0px;
+    color: black;
+    text-decoration: underline;
+  }
+  .culturep{
+    font-family: "Roboto", sans-serif;
+    font-weight: 425;
+    font-style: normal;
+    font-size: 17px;
+    width: 350px;
+    margin-left: 850px;
+    margin-top: -365px;
+    padding-left: 20px;
+  }
+  .icon2{
+    border-radius: 50%;
+    width: 60px;
+    height:60px;
+    margin-bottom:;
+  }
+  .dogsmall{
+    width: 190px;
+    height: 130px;
+    margin-top: 100px;
+    margin-left: -737px;
+  }
+
   
