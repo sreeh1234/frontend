@@ -22,6 +22,7 @@
     font-size: 50px;
     margin-top: -10px;
     border-bottom: 2px solid gray;
+    margin-right: 160px;
    }
 
   .FONTC{
@@ -152,13 +153,56 @@
     border-radius: 50%;
     width: 60px;
     height:60px;
-    margin-bottom:;
   }
   .dogsmall{
     width: 190px;
     height: 130px;
     margin-top: 100px;
-    margin-left: -737px;
+    margin-left: -692px;
+    padding-top: 20px;
   }
+  .dogp{
+    margin-left: -692px;
+    width: 200px;
+    border-bottom: 2px solid gray;
+   
+  }
+  .img5{
+    width: 650px;
+    margin-top: 100px;
+    margin-left: -460px;
+    padding-top: 20px;
+  }
+  .super{
+    display: flex;
+  }
+  .p123{
+    width: 130%;
+    margin-left: -450px;
+    padding-top: 60px;
+    padding-left: 23%;
+  }
+  .p1234{
+    width: 300px;
+    margin-left: -691px;
+  }
+  .p321{
+    width: 700px;
+    margin-top: -280px;
+    margin-left: -150px;
+    
+  }
+  .p12{
+    padding-bottom: 20px;
+  }
+.p213{
+  margin-left: 300px;
+  width: 300px;
+}
+.img6{
+  width: 650px;
+  margin-left: 650px;
+  margin-top: -1800px;
+}
 
   
