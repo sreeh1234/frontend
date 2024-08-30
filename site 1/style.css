@@ -9,6 +9,11 @@
     color: black;
     
   }
+  .font1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
   .fontb h3{
    font-family: "Ubuntu", sans-serif;
    font-weight: 500;
@@ -138,7 +143,7 @@
     margin-top:0px;
     color: black;
     text-decoration: underline;
-  }
+  } 
   .culturep{
     font-family: "Roboto", sans-serif;
     font-weight: 425;
@@ -201,8 +206,117 @@
 }
 .img6{
   width: 650px;
-  margin-left: 650px;
-  margin-top: -1800px;
+  height: 4%;
+  margin-left:630px;
+  margin-top: -869px;
+}
+.p124{
+  margin-top: -880px;
+  width: 400px;
+  margin-left: 10px;
+}
+.icon3{
+  border-radius: 50%;
+  width: 60px;
+  height:60px;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+.pername{
+  margin-top: 45px;
+  padding-left: 15px;
+}
+.img7{
+  width: 325px;
+  height: 215px;
+  margin-top: -430px;
+  margin-left: -1060px;
+}
+.p10{
+  width: 300px;
+  height: 240px;
+  margin-left: -325px;
+  margin-top: -230px;
+}
+.img8{
+  width: 700px;
+  margin-left: 50px;
+  margin-top: -550px;
+}
+.p9{
+  width: 721px;
+  margin-left: 51px;
+}
+.img9{
+  width: 350px;
+  margin-left: -1390px;
+  margin-top: 90px;
+}
+.p11{
+  width: 330px;
+  margin-left: -1390px;
+}
+.icon4{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-left: -1390px;
+}
+.p111{
+  width: 330px;
+  margin-left: -1390px;
+  margin-top: 40px;
+}
+.img10{
+  width: 350px;
+  margin-left: -1020px;
+  margin-top: 90px;
 }
 
-  
+.img11{
+  width: 350px;
+  margin-left: -1020px;
+}
+.p12{
+  margin-left: -1020px;
+  width: 300px;
+  margin-top: -20px;
+  padding-top: -20px;
+}
+.img14{
+  width: 350px;
+  margin-top: 90px;
+  margin-left: -650px;
+}
+.img15{
+  width: 350px;
+  height: 221px;
+  margin-top: 409px;
+  margin-left: -650px;
+}
+.img16{
+  width: 350px;
+  height: 221px;
+  margin-top: 750px;
+  margin-left: -650px;
+}
+
+.p13{
+  width: 350px;
+  margin-left: -649px;
+  margin-top: -20px;
+}
+.p14{
+  width: 350px;
+  margin-left: -650px;
+  margin-top: -20px;
+}
+.lasttab{
+  width: 400px;
+  margin-top: -1040px;
+  margin-left: 1440px;
+  font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+   
+}
