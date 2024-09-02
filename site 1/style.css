@@ -320,3 +320,53 @@
     font-style: normal;
    
 }
+.footer{
+  background-color: black;
+  width: 2100px;
+  height: 400px;
+  color: white;
+}
+.pfoot{
+  color: white;
+  width: 450px;
+  
+}
+.learn{
+  padding-left:305px ;
+  color: white;
+  text-decoration:underline ;
+}
+.list{
+  margin-left:500px ;
+  margin-top: -340px;
+  width:80px;
+  
+}
+.list1{
+  width:80px ;
+  margin-top: -170px;
+  margin-left: 700px;
+}
+.f1{
+  width: 60px;
+  height: 60px;
+  margin-left: -80px;
+  display: inline;
+  margin-top:-150px;
+}
+.ahref{
+  color: white;
+  }
+  
+  .f2{
+  width: 60px;
+  height:60px ;
+  margin-left: -349px;
+  margin-top: -70px;
+  }
+  .f3{
+    width: 60px;
+    height:60px ;
+    margin-left: -540px;
+    margin-top: 20px;
+    }
