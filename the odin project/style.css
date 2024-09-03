@@ -1,0 +1,15 @@
+.mainfont{
+    font-family: "Luckiest Guy", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .header{
+    background-color:red;
+    width: 2000px;
+    height: 100px;
+  }
+  .icon1{
+    margin-left: 400px;
+    margin-top: 20px;
+    width: 40px;
+  }
