@@ -1,15 +1,21 @@
 .mainfont{
     font-family: "Luckiest Guy", system-ui;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
+    font-size: larger;
+    margin-left: 50px; 
+    margin-top: -37px;
   }
   .font2{
     font-family: "Ubuntu", sans-serif;
     font-weight: 500;
     font-style: normal;
+    font-style: bold;
   }
-  .icon1{
+  .mainhead{
     margin-left: 20px;
     margin-top: 10px;
     width: 35px;
   }
+
+  
