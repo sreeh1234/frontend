@@ -12,10 +12,22 @@
     font-style: normal;
     font-style: bold;
   }
-  .mainhead{
-    margin-left: 20px;
-    margin-top: 10px;
-    width: 35px;
+  .head{
+    width: 1200px;
+    margin-top: 150px;  
   }
+  .headsub{
+    width: 600px;
+    margin-left: 285px;
+  }
+  .button{
+    margin-left: 480px;
+    margin-top: 50px;
+  }
+  .img1{
+    width: 1960px;
 
-  
+    margin-left: -306px;
+    margin-top: 30px;
+    
+  }
