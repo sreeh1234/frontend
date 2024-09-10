@@ -6,6 +6,14 @@
     margin-left: 50px; 
     margin-top: -37px;
   }
+  .mainfont1{
+    font-family: "Luckiest Guy", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: larger;
+    margin-left: 270px;
+    margin-top: -40px;
+  }
   .font2{
     font-family: "Ubuntu", sans-serif;
     font-weight: 500;
