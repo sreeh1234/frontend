@@ -1,0 +1,22 @@
+.header{
+    background-color: whitesmoke;
+    width: 1903px;
+    height: 70px;
+}
+.logo{
+    height: 70px;
+    width: 150px;
+    margin-left: 180px;
+}
+.search{
+    margin-left: 20px;
+    width: 750px;
+    height: 50px;
+    border-top-color:gainsboro;
+    border-left-color: gainsboro;
+    border-radius: 5px;
+}
+.searchin{
+    margin-left: 370px;
+    margin-top: -51px;
+}
