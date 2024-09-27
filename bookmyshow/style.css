@@ -1,5 +1,5 @@
 .header{
-    background-color: whitesmoke;
+    background-color: white;
     width: 1903px;
     height: 70px;
 }
@@ -11,12 +11,35 @@
 .search{
     margin-left: 20px;
     width: 750px;
-    height: 50px;
-    border-top-color:gainsboro;
-    border-left-color: gainsboro;
+    height: 45px;
+    border-top-color:white;
+    border-left-color: white;
     border-radius: 5px;
+    border-width:1px;
 }
 .searchin{
     margin-left: 370px;
-    margin-top: -51px;
+    margin-top: -52px;
+}
+.drop{
+    margin-left: 1400px;
+    margin-top: -50px;
+}
+
+.signin{
+    width: 80px;
+    height: 33px;   
+    margin-top: -40px;
+    margin-left: 30px;
+}
+.list{
+    height: 10%;
+    margin-left: 1700px;
+    margin-top: -45px;
+}
+.nav{
+    border-color: rgb(126, 22, 22);
+    width: 1903px;
+    height: 60px;
+    display: flex;
 }

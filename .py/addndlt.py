@@ -32,6 +32,10 @@
 # l.pop()
 # print(l)
 
+# l=[1,2,3,3,2,1]
+# l.pop()
+# print(l)
+
 # remove      
 
 # l=[11,222,3333]
@@ -83,6 +87,7 @@
 # adding of str n int
 
 # l=[10,11,8,5,2,12,10,'abc','ab']
+
 # print (l)
 # a=0
 # for i in l:
@@ -92,9 +97,22 @@
 
 # remove duplicate
 
-li=[1,2,3,4,5,2,4,6,1,2,3,4,5,6]
-print(li)
-for i in li:
-    if li.count(i)>1:
-        li.remove(i)
-print(li)    
+# li=[1,2,3,4,5,2,4,6]
+# print(li)
+# l=[]
+# for i in li:
+#     if i not in l:
+#         l.append(i)
+
+# reverse of str elements
+        
+l=['apple','orange','kiwi']
+print(l)
+for i in l:
+        print(i[::-1])
+
+
+
+
+
+
