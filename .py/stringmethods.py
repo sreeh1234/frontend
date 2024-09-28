@@ -12,10 +12,10 @@ s='welcome to all'
 # print(s.endswith('l'))
 # print(s.count('a'))
 # print(s.index('a'))
-# print(s.find('z'))
+# print(s.find('a'))
 # print(s.center(20))
 # a='123a'
-# # print(a.isdigit())
+# print(a.isdigit())
 # print('{:20}{:20}{:20}'.format('name','age','place'))
 # print('{:20}{:20}{:20}'.format('aaa','10','tsr'))
 # print(r'welcome \new')

@@ -106,10 +106,13 @@
 
 # reverse of str elements
         
-l=['apple','orange','kiwi']
-print(l)
-for i in l:
-        print(i[::-1])
+# l=['apple','orange','kiwi']
+# print(l)
+# for i in l:
+#         print(i[::-1])
+
+
+
 
 
 
