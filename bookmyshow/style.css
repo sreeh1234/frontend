@@ -37,9 +37,13 @@
     margin-left: 1700px;
     margin-top: -45px;
 }
-.nav{
-    border-color: rgb(126, 22, 22);
-    width: 1903px;
-    height: 60px;
-    display: flex;
+
+.secnav{
+    margin-left: 160px;
+    
+}
+.secnav1{
+    margin-left: 750px;
+    margin-bottom: 3px;
+    
 }
