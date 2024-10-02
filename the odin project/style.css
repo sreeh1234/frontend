@@ -1,0 +1,51 @@
+.mainfont{
+    font-family: "Luckiest Guy", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: larger;
+    margin-left: 50px; 
+    margin-top: -37px;
+  }
+  .mainfont1{
+    font-family: "Luckiest Guy", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    font-size: larger;
+    margin-left: 270px;
+    margin-top: -40px;
+  }
+  .font2{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-style: bold;
+  }
+  .head{
+    width: 1200px;
+    margin-top: 150px;  
+  }
+  .headsub{
+    width: 600px;
+    margin-left: 285px;
+  }
+  .button{
+    margin-left: 480px;
+    margin-top: 50px;
+  }
+  .img1{
+    width: 1960px;
+
+    margin-left: -306px;
+    margin-top: 30px;
+    
+  }
+  .logo1{
+    width: 180px;
+    margin-top: 100px;
+  }
+  .icon2{
+    width: 50px;
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+
