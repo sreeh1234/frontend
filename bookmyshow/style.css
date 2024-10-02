@@ -50,9 +50,10 @@
 .flex{
     display: flex;
     flex-direction: row;
+  
 }
 .pic{
-    width: 270px;
+    width: 230px;
     border-radius: 10px;
     margin-bottom: 15px;
 }
@@ -62,6 +63,32 @@
 }
 
 .aaa{
-    padding-left: 425px;
-    padding-right: 425px;
+    margin-left: 280px;
+    
+}
+.bbb{
+    margin-left: 10px;
+}
+.imgpad{
+    padding: 50px;
+}
+.para{
+    width: 190px;
+    padding-left: 30px;
+}
+.stream{
+    width: 1250px;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+.secimg{
+    width: 250px;
+    border-radius: 10px;
+}
+.secmar{
+    margin-left: 278px;
+    
+}
+.premiere{
+    width: ;
 }
