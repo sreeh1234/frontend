@@ -90,5 +90,12 @@
     
 }
 .premiere{
-    width: ;
+    width: 1100px;
+    height: 100px;
+    margin-left: 280px;
+}
+.ptag{
+    margin-left: 280px;
+    color: white;
+    margin-top: 50px;
 }
