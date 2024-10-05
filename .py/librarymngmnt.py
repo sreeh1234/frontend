@@ -52,8 +52,8 @@ while True:
                                 if i['id']==id:
                                     f1=1
                                     i['name']=input('enter new name')
-                            if f1==0:
-                                print('book not available')        
+                            # if f1==0:
+                            #     print('book not available')        
                     elif sub_ch==3:
                             id=int(input('enter id'))        
                             f1=0
