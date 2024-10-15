@@ -1,3 +1,5 @@
+from data import product
+
 def addstock():
     if len(product)==0:
         id=100
