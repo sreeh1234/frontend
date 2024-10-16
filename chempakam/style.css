@@ -12,3 +12,23 @@
 .carpadd{
     margin-left: 200px;
 }
+
+.shop{
+    margin-top: -100px;
+    margin-left: 750px;
+    color: white;
+    font-size: larger;
+
+}
+
+.flex{
+    display:flex;
+    color: white;
+    padding-left: 900px;   
+    margin-top: -35px;
+    font-size:larger;
+}
+
+.aa{
+    padding-left: 50px;
+}
