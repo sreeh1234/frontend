@@ -8,7 +8,15 @@ while True:
 2.login
 3.exit
 ''')
-    ch=int(input('enter your choice'))
+    
+    # exception handling
+    while True:    
+        try:
+            ch=int(input('enter your choice'))
+            break
+        except:
+            pass 
+    # *************** 
     if ch==1:
         reg()
     elif ch==2:
