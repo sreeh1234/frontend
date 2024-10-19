@@ -110,6 +110,7 @@
     display:flex;
     margin-left: 200px;
     
+    
 }
 
 .block{
@@ -118,5 +119,112 @@
     margin-top: 100px;
     
 
+}
+
+.text{
+    text-align: center;
+    color: gray;
+}
+
+.best{
+    font-size:50px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 80px;
+    color: gray;
+}
+
+.gdimg{
+    width: 350px;
+    height: 350px;
+}
+
+.gflex{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 260px;
+}
+
+.gp{
+    width: 250px;
+    color: gray;
+    text-align: start;
+}
+
+.gheart{
+    display: flex;
+    gap: 60px;
+    
+}
+
+.ggheart{
+    background-color: rgb(233, 226, 226);
+    border-radius: 70%;
+    width: 30px;
+    height: 30px;
+    padding: 6px;
+}
+
+.gbutton{
+    width: 170px;
+    height: 50px;
+    border-radius:2px;
+    border-width: 1px;
+    border-color: rgb(155, 153, 153);
+}
+
+.mainbutton{
+    margin-left: 860px;
+    margin-top: 150px;
+    width: 300px;
+    height: 60px;
+    border-radius:2px;
+    border-width: 1px;
+    border-color: rgb(155, 153, 153);
+}
+
+.foot{
+    background-color: black;
+    margin-top: 100px;
+    
+}
+
+.flogo{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.fflex{
+    display: flex;
+}
+
+.icons{
+    margin-left: 100px;
+    padding: 30px;
+    
+    
+}
+
+.list{
+    color: rgb(221, 219, 219);
+    list-style-type: none;
+    font-size: large;
+    margin-left: 500px;
+    margin-top: -150px;
+}
+
+.list2{
+    color: rgb(221, 219, 219);
+    list-style-type: none;
+    font-size: large;
+    margin-left: 770px;
+    margin-top: -187px;
+}
+
+.p{
+    margin-top:40px ;
+    margin-left: 20px;
+    color: rgb(231, 220, 220);
 }
 
