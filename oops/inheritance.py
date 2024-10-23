@@ -20,23 +20,23 @@
 
 
 
-class zomato:
-    def view(self):
-        print("order viewed")
-    def update(self):
-        print("order updated")  
+# class zomato:
+#     def view(self):
+#         print("order viewed")
+#     def update(self):
+#         print("order updated")  
         
-class blinkit(zomato):
-    def receive(self):
-        print("order received")
-    def deliver(self):
-        print("deliver")
+# class blinkit(zomato):
+#     def receive(self):
+#         print("order received")
+#     def deliver(self):
+#         print("deliver")
         
         
-cus1=zomato()
-cus1.update()            
+# cus1=zomato()
+# cus1.update()            
 
-cus2=blinkit()
-cus2.view()
+# cus2=blinkit()
+# cus2.view()
             
         
