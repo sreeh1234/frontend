@@ -7,3 +7,12 @@
 
 
 # sudo apt update && sudo apt upgrade -y
+
+# terminal 
+# INSTAllATION OF XAMPP
+
+# cd downloads
+# ls-to find the file is there or not
+
+# chmod -link-
+# sudo ./ -link-
