@@ -1,4 +1,26 @@
 .banner{
     width: 100%;
-    height: 50%;
+    height: 150%;
+    position: relative;
+}
+
+.croma{
+    position: absolute;
+    left: 6.5%;
+    top: 3%;
+    width: 10%;
+    
+}
+
+.list{
+    position: absolute;
+    top: 3.5%;
+    left: 20%;
+}
+
+.flex{
+    
+    
+
+
 }
