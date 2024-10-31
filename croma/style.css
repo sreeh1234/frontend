@@ -15,12 +15,18 @@
 .list{
     position: absolute;
     top: 3.5%;
-    left: 20%;
+    left: 5%;
 }
 
-.flex{
+.nav1{
+   position: absolute;
+   top: 2.5%;
+   left: 30%;
     
+}
+
+.search1{
+    height: 50px;
+    width: 500px;
     
-
-
 }
