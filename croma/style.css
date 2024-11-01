@@ -1,32 +1,35 @@
 .banner{
     width: 100%;
-    height: 150%;
     position: relative;
 }
 
-.croma{
+.logo{
     position: absolute;
-    left: 6.5%;
     top: 3%;
+    left: 6.5%;
     width: 10%;
-    
+
 }
 
-.list{
+.bar{
+    width: 25%;
+    margin: auto;
     position: absolute;
-    top: 3.5%;
-    left: 5%;
+    top: 3%;
+    left: 25%;
 }
 
-.nav1{
-   position: absolute;
-   top: 2.5%;
-   left: 30%;
-    
-}
-
-.search1{
-    height: 50px;
+.srch{
     width: 500px;
-    
+    height: 60px;
+    position: absolute;
+    top: 3%;
+    left: 20%;
+   
+}
+
+.loc{
+    position: absolute;
+    top: 23%;
+    left: 200%;
 }
