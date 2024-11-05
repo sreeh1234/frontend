@@ -73,11 +73,33 @@
 }
 
 .flx{
-    display: flex;
+    
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 3%;
+    gap: 20px;
+
+    
 }
 
 .flximg{
-    height: 15vh;
-    width: 30vw;
-    justify-content: space-around;
+    height: 180px;
+    width: 830px;
+    border-radius: 10px;
+    
+    
 }
+
+.ex{
+    margin-top: 8vh;
+    margin-left: 7vw;
+    color: white;
+    
+}
+
+.eximg{
+    width: 85%;
+}
+

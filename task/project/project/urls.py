@@ -21,6 +21,12 @@ from app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('hai',views.fun1),
-    path('fun2/<int:a>/<int:b>',views.fun2),
+    path('fun2/<int:year>/<int:salary>',views.fun2),
+    path('fun3/<int:num>',views.fun3),
+    path('fun4/<int:unit>',views.fun4),
+    path('fun5/<city>',views.fun5),
+    path('fun6/<int:num>',views.fun6),
+    path('fun7/<int:cost>',views.fun7),
+    
     
 ]
