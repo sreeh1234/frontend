@@ -27,6 +27,8 @@ urlpatterns = [
     path('fun5/<city>',views.fun5),
     path('fun6/<int:num>',views.fun6),
     path('fun7/<int:cost>',views.fun7),
+    path('fun8/',views.fun8),
+    path('fun9/',views.fun9),
     
     
 ]

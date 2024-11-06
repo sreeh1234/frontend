@@ -78,3 +78,22 @@ def fun7(request,cost):
     else:
         cost=tax=0.15*cost  
     return HttpResponse(cost)
+
+def fun8(request):
+    a={'name':'anu','age':22}
+    b=20
+    c=[1,2,3]
+    d=[{'name':'sanju','age':12},{'name':'anju','age':22}]
+    return render(request,'demo.html',{'data':a,'b':b,'c':c,'d':d})
+
+def fun9(req):
+    a={'name':'anju','age':29},{'name':'sanju','age':25},{'name':'ron','age':42},{'name':'don','age':30}
+    
+    l1=[]
+    l2=[]
+    for i in a:
+        if i['age']>=30:
+            l1.append(i)
+        else:
+            l2.append(i)    
+    return render(req,'demo.html',{'a':a,'l1':l1,'l2':l2})
