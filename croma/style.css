@@ -163,3 +163,62 @@
     margin-left: 7vw;
 }
 
+.ggimg{
+    height: 200px;
+    width: 1680px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin: auto;
+    gap: 5%;
+}
+
+.aaa{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 2vh;
+}
+
+.g21{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width:85%;
+    margin-top: 1%;
+    gap: 20px;
+}
+
+
+.iimg{
+    height: 350px;
+    width: 1680px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.i{
+    width: 85%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.cl{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    margin-top: 3%;
+    gap: 1%;
+
+}
+
+.climg{
+    width: 98%;
+    height: 95%;
+    border-radius: 5%;
+    
+}
