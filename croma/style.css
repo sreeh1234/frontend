@@ -222,3 +222,38 @@
     border-radius: 5%;
     
 }
+
+.footer{
+    background-color: rgb(39, 37, 37);
+    color: white;
+   
+    
+}
+
+.foot{
+    width: 85%;
+    margin: auto; 
+    margin-top: 3%;
+}
+
+.foot1{
+    margin-top: 12vh;
+}
+
+.search{
+    height: 7vh;
+    width: 20vw;
+    border-radius: 10px;
+}
+
+.ficn{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+    margin-top: 1%;
+}
+
+.gh{
+    border-left: solid 2px;
+    color: aqua;
+}
